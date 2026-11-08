@@ -1,0 +1,6 @@
+{
+  "name": "Saqi VPN",
+  "description": "Fast, Secure and Reliable VPN for STC, Mobily, Zain and Lebara in Saudi Arabia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

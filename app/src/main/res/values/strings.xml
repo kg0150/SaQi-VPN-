@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Saqi VPN</string>
+    <string name="app_tagline">Fast, Secure and Reliable VPN</string>
+    <string name="app_description">Premium Saudi Arabia VPN optimized for STC, Mobily, Zain &amp; Lebara networks.</string>
+    <string name="btn_download_app">Download App</string>
+    <string name="btn_free_trial">1-Hour Free Trial PIN</string>
+    <string name="btn_order_now">Order Now</string>
+    <string name="whatsapp_number">+966545328482</string>
+</resources>

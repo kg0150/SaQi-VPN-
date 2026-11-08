@@ -1,0 +1,28 @@
+# Android & Gradle Build Artifacts
+*.iml
+.gradle
+.kotlin
+/build
+/*/build
+/captures
+.externalNativeBuild
+.cxx
+
+# IDE & OS Files
+.idea
+*.ipr
+*.iws
+.DS_Store
+Thumbs.db
+
+# Secrets & Local Configurations (DO NOT COMMIT)
+local.properties
+/local.properties
+.env
+*.jks
+*.keystore
+!debug.keystore.base64
+
+# Package files
+*.apk
+*.aab
